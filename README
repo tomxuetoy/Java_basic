@@ -1,0 +1,22 @@
+For java program:
+
+Install javac
+	sudo apt-get install gcj-4.6-jdk
+
+Compile
+	javac HelloWorldApp.java
+
+Run
+	java HelloWorldApp
+
+
+******************************************************
+
+For applet:
+
+Compile
+	javac HelloWorldApplet.java
+
+Run
+	appletviewer example.html 
+	firefox example.html (under Windows, my Linux firefox has something wrong to run this applet)
